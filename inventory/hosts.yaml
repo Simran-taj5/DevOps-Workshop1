@@ -11,8 +11,5 @@ all:
       hosts:
         bar.example.com:
           ansible_connection: local
-   simran:
-      hosts:
-        bar.example.com:
-          ansible_connection: local
+   
           
